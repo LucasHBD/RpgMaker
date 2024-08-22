@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"LG","characterIndex":0,"characterName":"LG","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"LG","traits":[],"initialLevel":10,"maxLevel":10,"name":"Luiz","nickname":"LG","note":"","profile":""},
+{"id":2,"battlerName":"Robson","characterIndex":0,"characterName":"Robson","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Robson","traits":[],"initialLevel":10,"maxLevel":10,"name":"Robson","nickname":"Falha da Casualidade","note":"","profile":""},
+{"id":3,"battlerName":"Lucas","characterIndex":0,"characterName":"Lucas","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Lucas","traits":[],"initialLevel":10,"maxLevel":10,"name":"Lucas","nickname":"Portas","note":"","profile":""},
+{"id":4,"battlerName":"Steps","characterIndex":0,"characterName":"Steps2","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Steps","traits":[],"initialLevel":10,"maxLevel":10,"name":"Victor","nickname":"Steps","note":"","profile":""}
+]
